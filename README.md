@@ -2,5 +2,4 @@
 
 ## week 1
 
-+Explanation
-dfdfd
+homework for sva hello world
