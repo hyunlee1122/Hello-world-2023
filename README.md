@@ -1,2 +1,6 @@
 # Hello-world-2023
- Homework for SVA Hello World
+
+## week 1
+
++Explanation
+dfdfd
