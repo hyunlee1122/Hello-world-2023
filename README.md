@@ -1,6 +1,3 @@
 # Hello-world-2023
 
-## week 1
-
-+Explanation
-dfdfd
+Homework for Hyun's hello world

@@ -1,3 +1,54 @@
+# Assignment1
+myPhone = {
+    "type": "iPhone8 Plus",
+    "storage": 64,
+    "color": "pink",
+    "company": "Apple",
+    "smartphone": True
+}
+
+print(myPhone)
+
+myLaptop = {
+    "type": "MacBook Pro",
+    "storage": "500GB",
+    "memory": 16,
+    "company": "Apple",
+    "15-inch": True
+}
+
+print(myLaptop)
+
+myBag = {
+    "type": "backpack",
+    "color": "black",
+    "brand": "DESCENTE"
+}
+
+print(myBag)
+
+myiPad = {
+    "brand": "Apple",
+    "color": "space grey",
+    "type": "iPad11 pro",
+    "yearOfRelease": 2021
+}
+
+print(myiPad)
+
+
+# Assignment2
+
+{
+    "name": "coco",
+    "color": "green",
+    "species": "bear",
+    "count": "1",
+    "Location": "mountain",
+    "numberOfLegs": 4
+}
+
+
 # Assignment3
 # let the user know what's going on
 print("Welcome to my house")
